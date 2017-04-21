@@ -1,0 +1,10 @@
+Desarrollo de un sistema simple y rápido de medición en terreno de la producción de praderas predominantes en distintas zonas agroecológicas de la Región de Aysén
+Objetivo general
+
+Generar una herramienta y metodología de trabajo que permita una fácil y rápida estimación del rendimiento de praderas predominantes en dos zonas agroclimáticas de la región de Aysén
+
+Objetivos específicos
+
+Elaborar una regla para la estimación de la disponibilidad de forraje en diferentes tipos de praderas y estaciones del ano.Generar curvas de calibración para el uso de equipos medidores de disponibilidad de materia seca: Plato Medidor de Forraje (plate meter) y Bastón Electrónico GrassMaster.Elaborar una guía metodológica con criterios para aplicar los instrumentos de medición.Capacitar a profesionales, técnicos y productores en el uso de la tecnología generada.
+
+Resultados

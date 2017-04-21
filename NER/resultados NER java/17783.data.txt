@@ -1,0 +1,16 @@
+I. ORG
+Corte ORG
+Apelaciones OTROS
+Copiapó LUG
+Organismo ORG
+Recurso ORG
+Protección OTROS
+Institución ORG
+Previsional ORG
+Instituto ORG
+Superintendencia ORG
+Ley OTROS
+Servicio ORG
+Oficio ORG
+Servicio ORG
+Tribunales ORG

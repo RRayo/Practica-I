@@ -1,0 +1,8 @@
+Ministerio ORG
+Trabajo OTROS
+Previsión OTROS
+Social OTROS
+Superintendencia ORG
+Organismo ORG
+Caja ORG
+Compensación OTROS

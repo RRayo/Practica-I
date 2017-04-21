@@ -1,0 +1,12 @@
+7661 DATE
+April DATE
+1 DATE
+, DATE
+1969 DATE
+,820 NUMBER
+three NUMBER
+thousand NUMBER
+eight NUMBER
+hundred NUMBER
+and NUMBER
+twenty-four NUMBER
